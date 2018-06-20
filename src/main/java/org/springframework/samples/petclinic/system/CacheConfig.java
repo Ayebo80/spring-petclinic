@@ -1,5 +1,3 @@
-ERRORTEST123
-
 package org.springframework.samples.petclinic.system;
 
 import javax.cache.configuration.Configuration;
